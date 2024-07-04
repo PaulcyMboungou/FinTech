@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+Thanks for visiting this web app!
 
-Template Name: QuickStart
-Template URL: https://bootstrapmade.com/quickstart-bootstrap-startup-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<!-- =======================================================
+  * Template Name: Bring, Share & Learn !
+  * Template URL: https://ventduglobe.com/
+  * Updated: Jun 12 2024
+  * Author: Mboungou, Paulcy Des Merveilles
+  * License: Knowledge Sharing Campaign (KSC)
+  ======================================================== -->
